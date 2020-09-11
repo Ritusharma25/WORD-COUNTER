@@ -1,5 +1,6 @@
 # WORD-COUNTER
 Extract words from the given url and cleans it
+
 MADE USING PYTHON 
 REQUIREMENTS:
 1.VENV
