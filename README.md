@@ -1,2 +1,7 @@
 # WORD-COUNTER
 Extract words from the given url and cleans it
+MADE USING PYTHON 
+REQUIREMENTS:
+1.VENV
+2.PIP
+3.PACKAGES: REQUESTS, BEAUTIFULSOUP4(bs4)
