@@ -1,8 +1,7 @@
 # WORD-COUNTER
-Extract words from the given url and cleans it
+In this project it Extract words from the given url and cleans it and gives an an output.
 
-MADE USING PYTHON 
-REQUIREMENTS:
-1.VENV
-2.PIP
-3.PACKAGES: REQUESTS, BEAUTIFULSOUP4(bs4)
+This project is made using python language. 
+Pre-requisites to run this project:
+1. Create a venv.
+2. Install packages in the venv: REQUESTS, BEAUTIFULSOUP4(bs4)
